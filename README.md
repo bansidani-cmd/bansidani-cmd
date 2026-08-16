@@ -50,7 +50,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=340&height=28&lines=🫀+ECG+Arrhythmia+Detection" />
+🫀 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=320&height=28&lines=ECG+Arrhythmia+Detection" />
 
 Classifies heartbeats as normal or abnormal from MIT-BIH ECG data, using patient independent cross validation and a benchmarked CNN comparison.
 
@@ -59,7 +59,7 @@ Classifies heartbeats as normal or abnormal from MIT-BIH ECG data, using patient
 </td>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=340&height=28&lines=🧠+EEG+Seizure+Detection" />
+🧠 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=320&height=28&lines=EEG+Seizure+Detection" />
 
 Classifies EEG segments as seizure or non-seizure using time and frequency domain features, achieving **0.949 F1** with patient grouped cross validation.
 
@@ -70,7 +70,7 @@ Classifies EEG segments as seizure or non-seizure using time and frequency domai
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=340&height=28&lines=📊+Biomechatronic+Monitor" />
+📊 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=320&height=28&lines=Biomechatronic+Monitor" />
 
 A live Streamlit app combining both trained models above with SHAP based explainability, deployed publicly for real time inference and interpretation.
 
@@ -79,7 +79,7 @@ A live Streamlit app combining both trained models above with SHAP based explain
 </td>
 <td width="50%" valign="top">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=340&height=28&lines=🚗+Toyota+Adaptive+Driving+Challenge" />
+🚗 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=320&height=28&lines=Toyota+Adaptive+Driving+Challenge" />
 
 A MATLAB algorithm converting continuous head angle data into a 15 degree incremented steering target, built for accessible vehicle control.
 
@@ -91,7 +91,7 @@ A MATLAB algorithm converting continuous head angle data into a 15 degree increm
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=19&duration=1&pause=100000&repeat=false&color=C9A0FF&center=true&vCenter=true&width=420&height=32&lines=🛰️+Nakshatra+Navigation+—+in+progress" />
+🛰️ <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=19&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=400&height=32&lines=Nakshatra+Navigation+%E2%80%94+in+progress" />
 
 Reconstructing a real spacecraft star catalog from Varahamihira's 6th century *Brihat Samhita*, aiming toward a simulated lost in space star identification and attitude determination pipeline. Ancient astronomy meets modern spacecraft GNC.
 
