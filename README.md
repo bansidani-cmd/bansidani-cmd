@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:4b0082,100:9b30ff&height=200&section=header" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=70&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=500&height=100&lines=Bansi" alt="Bansi" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=64&duration=1&pause=100000&repeat=false&color=C9A0FF&center=true&vCenter=true&width=500&height=90&lines=Bansi" alt="Bansi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=26&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&width=650&lines=Robots%2C+rockets%2C+and+biomechatronics+by+day...;...occasionally+pondering+dharma+by+night.;Building+at+the+intersection+of+space+%26+biomedicine.;Reconstructing+ancient+star+catalogs+for+modern+spacecraft." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&italic=true&size=24&duration=2600&pause=100000&repeat=false&color=B19CD9&center=true&vCenter=true&width=760&height=40&lines=Robots%2C+rockets%2C+and+biomechatronics+by+day%2C+occasionally+pondering+dharma+by+night." alt="Tagline" />
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
 
@@ -25,10 +25,10 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=340&height=60&lines=Tech+Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=28&duration=1&pause=100000&repeat=false&color=C9A0FF&center=true&vCenter=true&width=280&height=45&lines=Tech+Stack" />
 </div>
 
 <div align="center">
@@ -40,17 +40,18 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=480&height=60&lines=Featured+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=28&duration=1&pause=100000&repeat=false&color=C9A0FF&center=true&vCenter=true&width=420&height=45&lines=Featured+Projects" />
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🫀 ECG Arrhythmia Detection
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=340&height=28&lines=🫀+ECG+Arrhythmia+Detection" />
+
 Classifies heartbeats as normal or abnormal from MIT-BIH ECG data, using patient independent cross validation and a benchmarked CNN comparison.
 
 `Python` `TensorFlow/Keras` `Signal Processing`
@@ -58,7 +59,8 @@ Classifies heartbeats as normal or abnormal from MIT-BIH ECG data, using patient
 </td>
 <td width="50%" valign="top">
 
-### 🧠 EEG Seizure Detection
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=340&height=28&lines=🧠+EEG+Seizure+Detection" />
+
 Classifies EEG segments as seizure or non-seizure using time and frequency domain features, achieving **0.949 F1** with patient grouped cross validation.
 
 `Python` `Feature Engineering` `Scikit-learn`
@@ -68,7 +70,8 @@ Classifies EEG segments as seizure or non-seizure using time and frequency domai
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Biomechatronic Monitor
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=17&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=340&height=28&lines=📊+Biomechatronic+Monitor" />
+
 A live Streamlit app combining both trained models above with SHAP based explainability, deployed publicly for real time inference and interpretation.
 
 `Streamlit` `SHAP` `Deployment`
@@ -76,7 +79,8 @@ A live Streamlit app combining both trained models above with SHAP based explain
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Toyota Adaptive Driving Challenge
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=100000&repeat=false&color=C9A0FF&vCenter=true&width=340&height=28&lines=🚗+Toyota+Adaptive+Driving+Challenge" />
+
 A MATLAB algorithm converting continuous head angle data into a 15 degree incremented steering target, built for accessible vehicle control.
 
 `MATLAB` `Assistive Tech`
@@ -87,7 +91,7 @@ A MATLAB algorithm converting continuous head angle data into a 15 degree increm
 
 <div align="center">
 
-### 🛰️ Nakshatra Navigation — *in progress*
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=19&duration=1&pause=100000&repeat=false&color=C9A0FF&center=true&vCenter=true&width=420&height=32&lines=🛰️+Nakshatra+Navigation+—+in+progress" />
 
 Reconstructing a real spacecraft star catalog from Varahamihira's 6th century *Brihat Samhita*, aiming toward a simulated lost in space star identification and attitude determination pipeline. Ancient astronomy meets modern spacecraft GNC.
 
@@ -95,32 +99,20 @@ Reconstructing a real spacecraft star catalog from Varahamihira's 6th century *B
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=480&height=60&lines=Contribution+Snake" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=28&duration=1&pause=100000&repeat=false&color=C9A0FF&center=true&vCenter=true&width=460&height=45&lines=Contribution+Snake" />
 
 <img src="https://raw.githubusercontent.com/bansidani-cmd/bansidani-cmd/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=220&height=60&lines=Stats" />
-
-<img src="https://github-stats-extended.vercel.app/api?username=bansidani-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0d001a&title_color=C9A0FF&icon_color=B19CD9&text_color=E6D9FF" width="48%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bansidani-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0d001a&title_color=C9A0FF&text_color=E6D9FF" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=bansidani-cmd&theme=radical&hide_border=true&background=0d001a&ring=6a0dad&fire=C9A0FF&currStreakLabel=C9A0FF" width="70%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
+<img src="assets/divider.svg" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=260&height=60&lines=Connect" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=28&duration=1&pause=100000&repeat=false&color=C9A0FF&center=true&vCenter=true&width=260&height=45&lines=Connect" />
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-4b0082?style=for-the-badge&logo=linkedin&logoColor=E6D9FF&labelColor=0d001a)](https://www.linkedin.com/in/bansi-d-9809b529b)
 
@@ -128,6 +120,6 @@ Reconstructing a real spacecraft star catalog from Varahamihira's 6th century *B
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9b30ff,50:4b0082,100:0d001a&height=100&section=footer" width="100%"/>
+<img src="assets/banner.svg" width="100%"/>
 
 </div>
