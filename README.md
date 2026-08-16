@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:4b0082,100:9b30ff&height=200&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=500&height=70&lines=BANSI" alt="Bansi" />
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=70&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=500&height=100&lines=Bansi" alt="Bansi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&width=650&lines=Robots%2C+rockets%2C+and+biomechatronics+by+day...;...occasionally+pondering+dharma+by+night.;Building+at+the+intersection+of+space+%26+biomedicine.;Reconstructing+ancient+star+catalogs+for+modern+spacecraft." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=26&duration=3000&pause=1000&color=B19CD9&center=true&vCenter=true&width=650&lines=Robots%2C+rockets%2C+and+biomechatronics+by+day...;...occasionally+pondering+dharma+by+night.;Building+at+the+intersection+of+space+%26+biomedicine.;Reconstructing+ancient+star+catalogs+for+modern+spacecraft." alt="Typing SVG" />
 
 <br/>
 
@@ -28,7 +28,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=300&height=45&lines=TECH+STACK" />
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=340&height=60&lines=Tech+Stack" />
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=400&height=45&lines=FEATURED+PROJECTS" />
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=480&height=60&lines=Featured+Projects" />
 </div>
 
 <table>
@@ -98,7 +98,7 @@ Reconstructing a real spacecraft star catalog from Varahamihira's 6th century *B
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=400&height=45&lines=CONTRIBUTION+SNAKE" />
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=480&height=60&lines=Contribution+Snake" />
 
 <img src="https://raw.githubusercontent.com/bansidani-cmd/bansidani-cmd/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -107,12 +107,12 @@ Reconstructing a real spacecraft star catalog from Varahamihira's 6th century *B
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/lines2.gif" width="100%" height="5px"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=200&height=45&lines=STATS" />
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=220&height=60&lines=Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=bansidani-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0d001a&title_color=C9A0FF&icon_color=B19CD9&text_color=E6D9FF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansidani-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0d001a&title_color=C9A0FF&text_color=E6D9FF" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=bansidani-cmd&show_icons=true&theme=radical&hide_border=true&bg_color=0d001a&title_color=C9A0FF&icon_color=B19CD9&text_color=E6D9FF" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bansidani-cmd&layout=compact&theme=radical&hide_border=true&bg_color=0d001a&title_color=C9A0FF&text_color=E6D9FF" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bansidani-cmd&theme=radical&hide_border=true&background=0d001a&ring=6a0dad&fire=C9A0FF&currStreakLabel=C9A0FF" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=bansidani-cmd&theme=radical&hide_border=true&background=0d001a&ring=6a0dad&fire=C9A0FF&currStreakLabel=C9A0FF" width="70%"/>
 
 </div>
 
@@ -120,7 +120,7 @@ Reconstructing a real spacecraft star catalog from Varahamihira's 6th century *B
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=250&height=45&lines=CONNECT" />
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=100000&color=C9A0FF&center=true&vCenter=true&width=260&height=60&lines=Connect" />
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-4b0082?style=for-the-badge&logo=linkedin&logoColor=E6D9FF&labelColor=0d001a)](https://www.linkedin.com/in/bansi-d-9809b529b)
 
