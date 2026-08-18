@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=64&duration=1&pause=100000&repeat=false&color=C9A0FF&center=true&vCenter=true&width=500&height=90&lines=Bansi" alt="Bansi" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&italic=true&size=22&duration=2800&pause=100000&repeat=false&color=B19CD9&center=true&vCenter=true&width=1050&height=40&lines=Robots%2C+rockets%2C+and+biomechatronics+by+day%2C+occasionally+pondering+dharma+by+night." alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&italic=true&size=22&duration=2800&pause=100000&repeat=false&color=B19CD9&center=true&vCenter=true&width=1050&height=40&lines=Robots%2C+rockets%2C+and+biomechatronics+by+day%2C+pondering+dharma+by+night." alt="Tagline" />
 
 <br/>
 
